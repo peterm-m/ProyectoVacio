@@ -10,7 +10,6 @@ include(../cmake/tools.cmake)
 
 include(../cmake/CPM.cmake)
 
-# jarro2783/cxxopts : Para el paso de opciones por linea de comando
 CPMAddPackage(
   GITHUB_REPOSITORY jarro2783/cxxopts
   VERSION 3.0.0

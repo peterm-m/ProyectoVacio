@@ -43,7 +43,7 @@ if(NOT TEST_INSTALLED_VERSION)
   endif()
 endif()
 
-# ---- Add EjemploTests ----
+# ---- Añade Tests ----
 
 enable_testing()
 

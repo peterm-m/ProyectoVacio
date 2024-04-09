@@ -94,7 +94,7 @@ Si se usa codecoverage, es necesario ejecutar cmake con la opcion -DENABLE_TEST_
 
 ### ejecutar clang-format
 
-Para corregir errores de formato en el codigo  ejecuta 
+Para corregir errores de formato en el codigo
 
 ```bash
 cmake -S test -B build/test

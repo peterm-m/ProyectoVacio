@@ -1,0 +1,5 @@
+/** @page about About
+  @section doc ProjectoVacio Documentation 
+  Generacion automatica de documentacion del ProjectoVacio
+  Esta es la forma en la que puedes generar documentacion con Doxygen valida para el navegador 
+*/
